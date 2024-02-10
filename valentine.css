@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Indie Flower', sans-serif;
+}
+header {
+    position:relative;
+    width: 100%;
+    position: relative;
+    left: auto;
+    right: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    margin-top: 200px;
+    font-size:3cap;
+}
+body{
+    background-color: rgb(246, 253, 195);
+    
+}
+.letter{
+    position: relative;
+    left: auto;
+    right: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3cap;
+    background-color: #FFCF96;
+    width: 40%;
+    padding: 40px;
+    color:#1f041f;
+    border-radius: 15px;
+}
+.letter .yes{
+    width: 90px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #FF8080;
+    color: white;
+    font-weight: 500;
+    cursor:grab;
+}
+.letter .no{
+    width: 90px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #FF8080;
+    color: white;
+    font-weight: 500;
+    cursor:grab;
+}
+.letter a{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #FF8080;
+    color: white;
+    font-weight: 500;
+    cursor:grab;
+    text-decoration: none;
+    padding: 10px;
+}
+.letter .olaf{
+    padding: 20px;
+    border-radius: 10%;
+    width: 100%;
+    position: relative;
+}
+
